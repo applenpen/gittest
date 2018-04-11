@@ -1,4 +1,4 @@
 GitTest tample
 111gaga
-Git has a mutable index called stage.
+Git has a free mutable index called stage.
 New add
